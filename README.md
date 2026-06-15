@@ -2,6 +2,8 @@
 
 I am a full stack dreamer, and you can find my nonsense articles via [www.popsite.cn](https://www.popsite.cn).
 
+最近在维护一个独立博客发现计划，可以通过 [popsite-discover](https://github.com/cocowool/popsite-discover) 或 [www.popsite.cn](https://www.popsite.cn) 访问，在AI大模型越来越发达的当下，能坚持原创输出的博客越发珍贵。
+
 <!--
 **cocowool/cocowool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
